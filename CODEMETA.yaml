@@ -68,12 +68,12 @@ themes:
   #     - Structural engineering
   #     - Sustainable buildings
   #
-  # - Chemistry
+  - Chemistry
   #     - Analytical chemistry
   #     - Chemical engineering and processing
   #     - Chemical thermodynamics and chemical properties
   #     - Molecular characterization
-  #     - Theoretical chemistry and modeling
+  - Theoretical chemistry and modeling
   #     - Thermochemical properties
   #
   # - Electronics
@@ -242,16 +242,16 @@ themes:
   #     - Time and frequency metrology
   #     - Weights and measures
   #
-  # - Nanotechnology
-  #     - Nanobiotechnology
+  - Nanotechnology
+  - Nanobiotechnology
   #     - Nanochemistry
   #     - Nanoelectronics
-  #     - Nanofabrication/manufacturing
+  - Nanofabrication/manufacturing
   #         - Lithography
   #         - Self-assembly
   #     - Nanofluidics
   #     - Nanomagnetics
-  #     - Nanomaterials
+  - Nanomaterials
   #     - Nanomechanics
   #     - Nanometrology
   #     - Nanophotonics
