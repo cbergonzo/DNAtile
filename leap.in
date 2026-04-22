@@ -1,0 +1,17 @@
+source leaprc.protein.ff19SB_modAA
+source leaprc.DNA.OL15
+source leaprc.water.tip3p
+
+loadoff SIM.lib
+loadamberparams frcmod.tag.modxna
+
+mol = loadpdb for-tag.v3.newtile.pdb
+set default PBradii mbondi2
+
+solvatebox mol TIP3PBOX 12.0 iso
+addions mol MG 0
+addions mol MG 9 Cl- 18
+
+saveamberparm mol solv.dna.tags.MG.parm7 solv.dna.tags.MG.rst7
+
+quit
