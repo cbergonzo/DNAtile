@@ -6,4 +6,7 @@
 # The sequence matters: later patterns take precedence.
 
 # FILES  OWNERS
-*        @usnistgov/opensource-team
+*        @cbergonzo/DNAtile
+*        Christina Bergonzo, MML, Material Measurement Division, Theory, Modeling and Simulation Group (641.04) christina.bergonzo@nist.gov
+*        Jacob Majikes, PML, Microsystems and Nanotechnology Division, Biophysical and Biomedcal Measurement Group jacob.majikes@nist.gov
+*        Veronika Szalai, PML, Microsystems and Nanotechnology Division, Biophysical and Biomedcal Measurement Group veronika.szalai@nist.gov
